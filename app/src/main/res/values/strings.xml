@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Alc_phase1_Challenge</string>
+    <string name="welcome_to_alc_4_0">Welcome To ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="the_andela_learning_community">The Andela Learning community</string>
+    <string name="technology_leaders">A community empowering the next generation of african technology leaders.</string>
+    <string name="my_profile">My Profile</string>
+    <string name="what_is_ALC">The Andela learning community is a network of people technologist and tech enthusiasts across Africa dedicated to learning how to use technology to solve human problems.</string>
+    <string name="email">Email: harfrank2@gmail.com</string>
+    <string name="country">Country: Rwanda</string>
+    <string name="track">Track: Android</string>
+    <string name="phone_number">Phone number: +250781666092</string>
+    <string name="slack_username">Slack Username: FRANK_HN</string>
+</resources>
